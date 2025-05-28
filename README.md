@@ -10,7 +10,6 @@ Web-based tool for identifying wildlife species from images using machine learni
 - Displays species name and prediction confidence
 - Includes an about section for project background
 
----
 
 ## 🛠️ Getting Started
 
@@ -32,17 +31,16 @@ npm run dev
 
 Visit http://localhost:5173 in your browser to see the app in action.
 
----
 
 ## 🧠 About This Project
 This app was developed to demonstrate computer vision in wildlife conservation. The UI is built using React, and the prediction logic is currently mocked to simulate ML results. Future versions will integrate a trained species classification model.
 
----
+
 
 ## 🤖 ML Integration (Coming Soon)
 To integrate the real machine learning model, connect the handleImageUpload function in App.jsx to a backend API that returns prediction results based on the uploaded image.
 
----
+
 
 ## 📦 Tech Stack
 - React
