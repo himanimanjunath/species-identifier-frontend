@@ -2,14 +2,13 @@
 
 Web-based tool for identifying wildlife species from images using machine learning. Built with React and styled with custom CSS, this project allows users to upload an image and receive a species prediction with confidence.
 
----
 
 ## 🚀 Features 
-• Upload wildlife images directly from your device
-• Predicts species with a mock ML model (ready to integrate with a real backend)
-• Clean UI with a natural color scheme
-• Displays species name and prediction confidence
-• Includes an about section for project background
+- Upload wildlife images directly from your device
+- Predicts species with a mock ML model (ready to integrate with a real backend)
+- Clean UI with a natural color scheme
+- Displays species name and prediction confidence
+- Includes an about section for project background
 
 ---
 
@@ -46,10 +45,10 @@ To integrate the real machine learning model, connect the handleImageUpload func
 ---
 
 ## 📦 Tech Stack
-• React
-• Vite
-• Node.js
-• Custom CSS 
+- React
+- Vite
+- Node.js
+- Custom CSS 
 
 
 
