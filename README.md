@@ -11,7 +11,7 @@ Web-based tool for identifying wildlife species from images using machine learni
 - Includes an about section for project background
 
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository:
 ```bash
