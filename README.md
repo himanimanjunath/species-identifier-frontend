@@ -1,4 +1,4 @@
-# Wildlife Species Detector
+# Wildlife Species Detector Frontend
 
 Web-based tool for identifying wildlife species from images using machine learning. Built with React and styled with custom CSS, this project allows users to upload an image and receive a species prediction with confidence.
 
