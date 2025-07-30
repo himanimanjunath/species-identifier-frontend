@@ -2,6 +2,10 @@
 
 Web-based tool for identifying wildlife species from images using machine learning. Built with React and styled with custom CSS, this project allows users to upload an image and receive a species prediction with confidence.
 
+<img width="1412" height="690" alt="Screenshot_2025-05-28_at_5 37 29_PM" src="https://github.com/user-attachments/assets/088b1cda-f539-4e6c-9b98-90e066e4e904" />
+
+<img width="1390" height="697" alt="Screenshot_2025-05-28_at_5 37 47_PM" src="https://github.com/user-attachments/assets/32d4f912-fad1-456f-a3ac-7d3e62bd695f" />
+
 
 ## Features 
 - Upload wildlife images directly from your device
